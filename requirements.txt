@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+langsmith>=0.0.66
+langchain>=0.1.0
