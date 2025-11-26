@@ -1,0 +1,61 @@
+title,location,salary,company
+Data Analyst,New York,80000,X Corp
+Backend Engineer,San Francisco,130000,TechPro
+Full Stack Developer,New York,153506,Vertex AI
+QA Engineer,Chicago,150679,Stratus
+Frontend Engineer,Paris,109520,InnoTech
+Frontend Engineer,Los Angeles,92279,EchoSoft
+Data Scientist,Singapore,91731,Stratus
+Security Analyst,Denver,121654,BlueWave
+Data Scientist,Boston,150924,Nimbus Corp
+Database Administrator,Chicago,94509,Nimbus Corp
+Full Stack Developer,Austin,104584,Quantum Solutions
+Site Reliability Engineer,Amsterdam,101223,GlobalSoft
+AI Researcher,Singapore,76201,DataWorks
+Technical Writer,Bengaluru,145133,Quantum Solutions
+UX Designer,Los Angeles,146139,GlobalSoft
+QA Engineer,Bengaluru,79013,Vertex AI
+Full Stack Developer,London,97428,Quantum Solutions
+Product Manager,Pune,103432,BlueWave
+Frontend Engineer,Amsterdam,138803,Stratus
+QA Engineer,Boston,120216,BlueWave
+Technical Writer,Denver,147313,GlobalSoft
+QA Engineer,San Francisco,101572,BlueWave
+Frontend Engineer,Los Angeles,141358,Nimbus Corp
+Business Analyst,Vancouver,119494,Orbit Tech
+DevOps Engineer,Remote,76040,Stratus
+Technical Writer,Remote,159577,SigmaWorks
+UX Designer,London,104593,Cloudify
+ML Ops Engineer,Vancouver,78382,GlobalSoft
+Full Stack Developer,Chicago,137621,SigmaWorks
+Solution Architect,Austin,110252,EchoSoft
+AI Researcher,Dublin,96064,InnoTech
+Full Stack Developer,Singapore,155371,Nimbus Corp
+Full Stack Developer,Bengaluru,112591,Orbit Tech
+Data Scientist,Remote,131483,Alpha Systems
+ML Ops Engineer,Seattle,139889,Parallel Systems
+Solution Architect,Los Angeles,80126,Alpha Systems
+Technical Writer,Dublin,64813,Nimbus Corp
+Systems Engineer,New York,74947,GreenLeaf
+QA Engineer,San Francisco,99385,Horizon Systems
+Frontend Engineer,Austin,155962,DataWorks
+Technical Writer,Chicago,81809,NovaLabs
+Technical Writer,Boston,96645,EchoSoft
+Security Analyst,Los Angeles,136374,BetaDynamics
+Cloud Architect,London,150647,Quantum Solutions
+AI Researcher,Dublin,113982,Vertex AI
+QA Engineer,Austin,98344,Horizon Systems
+Technical Writer,Denver,133608,InnoTech
+Frontend Engineer,San Francisco,85104,GlobalSoft
+Data Engineer,Austin,123899,BlueWave
+Systems Engineer,Los Angeles,126167,Horizon Systems
+UX Designer,Vancouver,98855,NovaLabs
+Security Analyst,Los Angeles,68588,SigmaWorks
+Site Reliability Engineer,Berlin,114651,GlobalSoft
+Full Stack Developer,San Francisco,117931,Nimbus Corp
+Full Stack Developer,Denver,82116,Stratus
+AI Researcher,Chicago,112006,BlueWave
+AI Researcher,Denver,71260,Stratus
+Full Stack Developer,San Francisco,146856,InnoTech
+Frontend Engineer,Denver,82658,NovaLabs
+Systems Engineer,Los Angeles,120785,GlobalSoft
