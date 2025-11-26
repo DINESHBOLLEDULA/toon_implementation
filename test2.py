@@ -419,10 +419,16 @@ Respond with ONLY the {output_fmt} output."""
             "query": query,
         }
         
-        # Update LangSmith run tree with outputs and usage
+        # Update LangSmith run tree with ACTUAL FORMATTED DATA in inputs
         run_tree = get_current_run_tree()
         if run_tree:
             run_tree.set(
+                inputs={
+                    "input_format": input_fmt,
+                    "output_format": output_fmt,
+                    "data_sample": formatted_data,  # Shows actual JSON or TOON formatted data
+                    "query": query
+                },
                 outputs={"response": result},
                 usage_metadata=usage_metadata_dict,
                 metadata=metadata,
